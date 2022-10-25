@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=
-Shakur4s &layout=compact)](https://github.com/깃허브아이디/githubreadme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakur4s &layout=compact)](https://github.com/깃허브아이디/githubreadme-stats)
 
 
 
