@@ -1,5 +1,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DragonTiger-DT
-)](https://github.com/Shakur4s/github-readme-stats)
+)]
 
 <h1>코파일럿좋아</h1>
 
