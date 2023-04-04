@@ -5,6 +5,8 @@
 
 <h1>코파일럿좋아</h1>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dydyqja)](https://solved.ac/dydyqja/)
+
 
 <!--
 **Shakur4s/Shakur4s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
