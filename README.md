@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DragonTiger-DT
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DragonT-iger
 )
 
 <h1>코파일럿좋아</h1>
